@@ -113,7 +113,7 @@ const dataportfolio = [{
     {
         img: "/img/portfolio/tradingview/IMG_6854 (1).png",
         description: "Integration Ag-grid & Tradingview chart library",
-        link: "https://github.com/mykhailoananiev23/react-native-tradingview-chart",
+        link: "https://github.com/mikicamilosev/react-native-tradingview-chart",
     },
     {
         img: "/img/portfolio/mindfulworld/mindfulworld1.png",
@@ -123,7 +123,7 @@ const dataportfolio = [{
     {
         img: "/img/portfolio/fortnite/4.png",
         description: "Integrate fortnite API & Customize map matched with season of Fortnite Platform",
-        link: "https://github.com/mykhailoananiev23/fortnite-api-map-shop",
+        link: "https://github.com/mikicamilosev/fortnite-api-map-shop",
     },
     {
         img: "/img/portfolio/13Ftrading/Screenshot_4.png",
@@ -165,7 +165,7 @@ const dataportfolio = [{
     // {
     //     img: "/img/portfolio/jobBoard/111.png",
     //     description: "Post & Get a Job site having Real-time communication via Pusher.com, Payment Getway based on Next.js & Nest.js",
-    //     link: "https://github.com/mykhailoananiev23/bube-next-nest-user",
+    //     link: "https://github.com/mikicamilosev/bube-next-nest-user",
     // },
     {
         img: "/img/portfolio/alignD/alignD1.png",
@@ -175,10 +175,10 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "mykhailoananiev23@gmail.com",
+    YOUR_EMAIL: "mikicamilosev00@gmail.com",
     YOUR_FONE: "+381 61 263 4851",
     TELEGRAM: "https://t.me/MikD000",
-    DISCORD:  "mykhailo1222",  
+    DISCORD:  "mikica0250",  
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_k39kkxd",
